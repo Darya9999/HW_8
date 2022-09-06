@@ -1,0 +1,15 @@
+C:\GB\HW_8_C#\Ex_58\bin\Debug\net7.0\Ex_58.exe
+C:\GB\HW_8_C#\Ex_58\bin\Debug\net7.0\Ex_58.deps.json
+C:\GB\HW_8_C#\Ex_58\bin\Debug\net7.0\Ex_58.runtimeconfig.json
+C:\GB\HW_8_C#\Ex_58\bin\Debug\net7.0\Ex_58.dll
+C:\GB\HW_8_C#\Ex_58\bin\Debug\net7.0\Ex_58.pdb
+C:\GB\HW_8_C#\Ex_58\obj\Debug\net7.0\Ex_58.csproj.AssemblyReference.cache
+C:\GB\HW_8_C#\Ex_58\obj\Debug\net7.0\Ex_58.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\HW_8_C#\Ex_58\obj\Debug\net7.0\Ex_58.AssemblyInfoInputs.cache
+C:\GB\HW_8_C#\Ex_58\obj\Debug\net7.0\Ex_58.AssemblyInfo.cs
+C:\GB\HW_8_C#\Ex_58\obj\Debug\net7.0\Ex_58.csproj.CoreCompileInputs.cache
+C:\GB\HW_8_C#\Ex_58\obj\Debug\net7.0\Ex_58.dll
+C:\GB\HW_8_C#\Ex_58\obj\Debug\net7.0\refint\Ex_58.dll
+C:\GB\HW_8_C#\Ex_58\obj\Debug\net7.0\Ex_58.pdb
+C:\GB\HW_8_C#\Ex_58\obj\Debug\net7.0\Ex_58.genruntimeconfig.cache
+C:\GB\HW_8_C#\Ex_58\obj\Debug\net7.0\ref\Ex_58.dll

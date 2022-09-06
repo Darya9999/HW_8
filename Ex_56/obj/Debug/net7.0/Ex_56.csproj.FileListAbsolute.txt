@@ -1,0 +1,15 @@
+C:\GB\HW_8_C#\Ex_56\bin\Debug\net7.0\Ex_56.exe
+C:\GB\HW_8_C#\Ex_56\bin\Debug\net7.0\Ex_56.deps.json
+C:\GB\HW_8_C#\Ex_56\bin\Debug\net7.0\Ex_56.runtimeconfig.json
+C:\GB\HW_8_C#\Ex_56\bin\Debug\net7.0\Ex_56.dll
+C:\GB\HW_8_C#\Ex_56\bin\Debug\net7.0\Ex_56.pdb
+C:\GB\HW_8_C#\Ex_56\obj\Debug\net7.0\Ex_56.csproj.AssemblyReference.cache
+C:\GB\HW_8_C#\Ex_56\obj\Debug\net7.0\Ex_56.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\HW_8_C#\Ex_56\obj\Debug\net7.0\Ex_56.AssemblyInfoInputs.cache
+C:\GB\HW_8_C#\Ex_56\obj\Debug\net7.0\Ex_56.AssemblyInfo.cs
+C:\GB\HW_8_C#\Ex_56\obj\Debug\net7.0\Ex_56.csproj.CoreCompileInputs.cache
+C:\GB\HW_8_C#\Ex_56\obj\Debug\net7.0\Ex_56.dll
+C:\GB\HW_8_C#\Ex_56\obj\Debug\net7.0\refint\Ex_56.dll
+C:\GB\HW_8_C#\Ex_56\obj\Debug\net7.0\Ex_56.pdb
+C:\GB\HW_8_C#\Ex_56\obj\Debug\net7.0\Ex_56.genruntimeconfig.cache
+C:\GB\HW_8_C#\Ex_56\obj\Debug\net7.0\ref\Ex_56.dll
